@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
+	<ConfigVersions>
+		<Metadata name="Catalog.Номенклатура" id="ed47c9c0-d968-4578-8316-bb4243ac1ce5" configVersion="16bc38983417ca48934665545a65caf100000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.Используется" id="bdd3a22c-5144-4b32-9d3c-aad48eb8c92e"/>
+		</Metadata>
+		<Metadata name="Catalog.Номенклатура.ObjectModule" id="ed47c9c0-d968-4578-8316-bb4243ac1ce5.0" configVersion="c3aab3ab7a16344c86c763153525439600000000"/>
+		<Metadata name="CommonModule._Регламенты" id="a8f4796e-bc96-4b9e-bed9-7880704310b5" configVersion="8c01ddb9c00f6342baea8c61e206f7a300000000"/>
+		<Metadata name="CommonModule._Регламенты.Module" id="a8f4796e-bc96-4b9e-bed9-7880704310b5.0" configVersion="55d34f8c40625745b8fc5ad54b2bceef00000000"/>
+		<Metadata name="Configuration.РегламентныеЗадания" id="b282e2f4-8ec3-41bf-8ec6-83f87a4487a2" configVersion="d85e2acebbdb8948b0d29d20f03ebadc00000000"/>
+		<Metadata name="Constant.ЗапрещатьПерезапись" id="4c8a9d2e-4b25-4f9c-b35e-0b5b539401f3" configVersion="393a6f0849659b4ab19dc1edc400498b00000000"/>
+		<Metadata name="DataProcessor.ГенерацияОтложенныхЗаданий" id="65fab57b-e38c-4fcc-b506-5fe846d9cdae" configVersion="d602868255971348b3f0e3e3185528c400000000"/>
+		<Metadata name="DataProcessor.ГенерацияОтложенныхЗаданий.Form.Форма" id="faa208c7-19e7-4cf3-92b7-0d9180761035" configVersion="4d07b600f6d01c4a85e81616d6c21bc600000000"/>
+		<Metadata name="DataProcessor.ГенерацияОтложенныхЗаданий.Form.Форма.Form" id="faa208c7-19e7-4cf3-92b7-0d9180761035.0" configVersion="0bfddb7572e09440bf1d2c03c765aa1500000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019" id="8f36f2ef-685b-42ff-ac64-468c462c3808" configVersion="8154fbf91bfb0c42b4d33b11cdb0ad7a00000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.ДиалогНастроекСписка" id="2dcca15d-838d-4d87-a775-0c234c0178ef" configVersion="17ec51d93e33404cb0b178ad5cd0675c00000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.ДиалогНастроекСписка.Form" id="2dcca15d-838d-4d87-a775-0c234c0178ef.0" configVersion="5ac7196e84a2b341a63e117357dbd2d300000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.ДиалогОтбораРегламентногоЗадания" id="649c7ad0-644e-4fd5-9fad-b54f271275a1" configVersion="2fa93c3b875218408c619acbaca908c100000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.ДиалогОтбораРегламентногоЗадания.Form" id="649c7ad0-644e-4fd5-9fad-b54f271275a1.0" configVersion="ac66b488e64a4143b45913745c4b6b7700000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.ДиалогОтбораФоновогоЗадания" id="a77cac0a-2eea-453d-874a-7e5989f47e3b" configVersion="c4d696e409c99e47aec1da273ef3934900000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.ДиалогОтбораФоновогоЗадания.Form" id="a77cac0a-2eea-453d-874a-7e5989f47e3b.0" configVersion="1f7f3e6dd40fd4479d8d0192294d06ad00000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.ДиалогРегламентногоЗадания" id="b809707e-48a9-42e8-bc4b-b402ce948c24" configVersion="69bfdabe0b49684cbc2a66078b0496c000000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.ДиалогРегламентногоЗадания.Form" id="b809707e-48a9-42e8-bc4b-b402ce948c24.0" configVersion="7c5f29206b62bc40a698c7c7de179bf900000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.ДиалогФоновогоЗадания" id="c42682f5-ccd5-4d3a-a9e7-bca70f1c0140" configVersion="94c4702c6beffb40a357be932660aeb800000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.ДиалогФоновогоЗадания.Form" id="c42682f5-ccd5-4d3a-a9e7-bca70f1c0140.0" configVersion="98c87f47e01af2489e900ef977a223ac00000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.Форма" id="9d8e2bfe-5582-4c9e-baa1-1fe3d4ac0464" configVersion="582ef5b4f46d624cadef968a9e8dc25400000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.Форма.Form" id="9d8e2bfe-5582-4c9e-baa1-1fe3d4ac0464.0" configVersion="256820e51abeea4586ff59f4f8b723de00000000"/>
+		<Metadata name="DataProcessor.КонсольЗаданий2019.ObjectModule" id="8f36f2ef-685b-42ff-ac64-468c462c3808.0" configVersion="55228998e236de42b792278c8ac01a0e00000000"/>
+		<Metadata name="Language.Русский" id="438f4312-41a3-46a3-871d-a5be147742d3" configVersion="749def0e96ebc54fb9d63b3f5494602b00000000"/>
+		<Metadata name="ScheduledJob.ОтложенноеЗадание" id="de067467-18bb-4b0c-b9d3-983d64148098" configVersion="4bd7b7d204f82b4f8a0fc71b2b1cfd1f00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
