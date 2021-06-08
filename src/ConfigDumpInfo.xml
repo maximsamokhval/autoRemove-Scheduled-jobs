@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
 	<ConfigVersions>
-		<Metadata name="Catalog.Номенклатура" id="ed47c9c0-d968-4578-8316-bb4243ac1ce5" configVersion="703fce4c429ce344a2d9ccecf10fb48c00000000">
+		<Metadata name="Catalog.Номенклатура" id="ed47c9c0-d968-4578-8316-bb4243ac1ce5" configVersion="31d413f2a7f63545bda536fc4134c99400000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.Используется" id="bdd3a22c-5144-4b32-9d3c-aad48eb8c92e"/>
 		</Metadata>
-		<Metadata name="Catalog.Номенклатура.ObjectModule" id="ed47c9c0-d968-4578-8316-bb4243ac1ce5.0" configVersion="9a8450a9695aa14ea7bc17b5cb6ea2d700000000"/>
-		<Metadata name="CommonModule._Регламенты" id="a8f4796e-bc96-4b9e-bed9-7880704310b5" configVersion="1132ed13b833c4408de2ea8ac3ebc8f100000000"/>
-		<Metadata name="CommonModule._Регламенты.Module" id="a8f4796e-bc96-4b9e-bed9-7880704310b5.0" configVersion="10ebd4adbc74bc40ac33875cc588b81f00000000"/>
-		<Metadata name="Configuration.РегламентныеЗадания" id="b282e2f4-8ec3-41bf-8ec6-83f87a4487a2" configVersion="88708b112c20294a8e6aba1091d28f9900000000"/>
+		<Metadata name="Catalog.Номенклатура.ObjectModule" id="ed47c9c0-d968-4578-8316-bb4243ac1ce5.0" configVersion="2633bcb980376442bd2b90b98db35c7400000000"/>
+		<Metadata name="CommonModule._Регламенты" id="a8f4796e-bc96-4b9e-bed9-7880704310b5" configVersion="3eb9306e5b797649af32b9dabb963fb300000000"/>
+		<Metadata name="CommonModule._Регламенты.Module" id="a8f4796e-bc96-4b9e-bed9-7880704310b5.0" configVersion="d2cf253baf4a324194835a76a485766500000000"/>
+		<Metadata name="Configuration.РегламентныеЗадания" id="b282e2f4-8ec3-41bf-8ec6-83f87a4487a2" configVersion="b8c546a56529624890e20b1dfdefcaa000000000"/>
 		<Metadata name="Constant.ЗапрещатьПерезапись" id="4c8a9d2e-4b25-4f9c-b35e-0b5b539401f3" configVersion="393a6f0849659b4ab19dc1edc400498b00000000"/>
 		<Metadata name="DataProcessor.ГенерацияОтложенныхЗаданий" id="65fab57b-e38c-4fcc-b506-5fe846d9cdae" configVersion="d602868255971348b3f0e3e3185528c400000000"/>
-		<Metadata name="DataProcessor.ГенерацияОтложенныхЗаданий.Form.Форма" id="faa208c7-19e7-4cf3-92b7-0d9180761035" configVersion="4d07b600f6d01c4a85e81616d6c21bc600000000"/>
-		<Metadata name="DataProcessor.ГенерацияОтложенныхЗаданий.Form.Форма.Form" id="faa208c7-19e7-4cf3-92b7-0d9180761035.0" configVersion="0bfddb7572e09440bf1d2c03c765aa1500000000"/>
+		<Metadata name="DataProcessor.ГенерацияОтложенныхЗаданий.Form.Форма" id="faa208c7-19e7-4cf3-92b7-0d9180761035" configVersion="e759d486df854c4eb60a7eec9d4277ee00000000"/>
+		<Metadata name="DataProcessor.ГенерацияОтложенныхЗаданий.Form.Форма.Form" id="faa208c7-19e7-4cf3-92b7-0d9180761035.0" configVersion="e0480e53704c27418b674155d371353900000000"/>
 		<Metadata name="DataProcessor.КонсольЗаданий2019" id="8f36f2ef-685b-42ff-ac64-468c462c3808" configVersion="8154fbf91bfb0c42b4d33b11cdb0ad7a00000000"/>
 		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.ДиалогНастроекСписка" id="2dcca15d-838d-4d87-a775-0c234c0178ef" configVersion="17ec51d93e33404cb0b178ad5cd0675c00000000"/>
 		<Metadata name="DataProcessor.КонсольЗаданий2019.Form.ДиалогНастроекСписка.Form" id="2dcca15d-838d-4d87-a775-0c234c0178ef.0" configVersion="5ac7196e84a2b341a63e117357dbd2d300000000"/>
@@ -29,5 +29,7 @@
 		<Metadata name="EventSubscription.ПередЗаписьюСправочника" id="29d36a01-ed35-449a-afc6-b6c355e5620d" configVersion="c02b41a7889ab4468b2ae331e6a9693c00000000"/>
 		<Metadata name="Language.Русский" id="438f4312-41a3-46a3-871d-a5be147742d3" configVersion="749def0e96ebc54fb9d63b3f5494602b00000000"/>
 		<Metadata name="ScheduledJob.ОтложенноеЗадание" id="de067467-18bb-4b0c-b9d3-983d64148098" configVersion="4bd7b7d204f82b4f8a0fc71b2b1cfd1f00000000"/>
+		<Metadata name="Style.Персональный" id="4761af41-e610-4a6a-982d-98cbc6dba41d" configVersion="0525d5bb7ed85e4e94c1f1c2bc17282e00000000"/>
+		<Metadata name="Style.Персональный.Style" id="4761af41-e610-4a6a-982d-98cbc6dba41d.0" configVersion="35ba3af1ccf7db40b120ca57b1db00f200000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

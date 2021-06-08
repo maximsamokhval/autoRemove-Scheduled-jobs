@@ -216,6 +216,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Style>Персональный</Style>
 			<CommonModule>_Регламенты</CommonModule>
 			<EventSubscription>ПередЗаписьюСправочника</EventSubscription>
 			<ScheduledJob>ОтложенноеЗадание</ScheduledJob>

@@ -52,6 +52,8 @@
 			<FileDragMode>AsFile</FileDragMode>
 			<DataPath>Список</DataPath>
 			<RowPictureDataPath>Список.DefaultPicture</RowPictureDataPath>
+			<BackColor>style:ToolTipBackColor</BackColor>
+			<BorderColor>web:DarkSlateBlue</BorderColor>
 			<AutoRefresh>false</AutoRefresh>
 			<AutoRefreshPeriod>60</AutoRefreshPeriod>
 			<Period>
