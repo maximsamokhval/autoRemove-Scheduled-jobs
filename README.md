@@ -1,5 +1,7 @@
 # Пример автоматически удаляемоего регламентного задания
 
+[![Статус порога качества](https://sonarqube.samokhval.com/api/project_badges/measure?project=autoRemove-Scheduled-jobs&metric=alert_status)](https://sonarqube.samokhval.com/dashboard?id=autoRemove-Scheduled-jobs)
+
 ## Назначение
 
  Позволяет "поставить отложенное задание" и гарантированно его выполнить.
