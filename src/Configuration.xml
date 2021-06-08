@@ -49,7 +49,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>maxim.samokhval@gmail.com</Vendor>
-			<Version>1.0.1</Version>
+			<Version>1.0.2</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -217,6 +217,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<CommonModule>_Регламенты</CommonModule>
+			<EventSubscription>ПередЗаписьюСправочника</EventSubscription>
 			<ScheduledJob>ОтложенноеЗадание</ScheduledJob>
 			<Constant>ЗапрещатьПерезапись</Constant>
 			<Catalog>Номенклатура</Catalog>
