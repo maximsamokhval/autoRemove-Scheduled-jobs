@@ -1,6 +1,8 @@
 # Пример автоматически удаляемоего регламентного задания
 
 [![Статус порога качества](https://sonarqube.samokhval.com/api/project_badges/measure?project=autoRemove-Scheduled-jobs&metric=alert_status)](https://sonarqube.samokhval.com/dashboard?id=autoRemove-Scheduled-jobs)
+[![Рейтинг безопасности](https://sonarqube.samokhval.com/api/project_badges/measure?project=autoRemove-Scheduled-jobs&metric=security_rating)](https://sonarqube.samokhval.com/dashboard?id=autoRemove-Scheduled-jobs)
+[![Технический долг](https://sonarqube.samokhval.com/api/project_badges/measure?project=autoRemove-Scheduled-jobs&metric=sqale_index)](https://sonarqube.samokhval.com/dashboard?id=autoRemove-Scheduled-jobs) [![Уязвимости](https://sonarqube.samokhval.com/api/project_badges/measure?project=autoRemove-Scheduled-jobs&metric=vulnerabilities)](https://sonarqube.samokhval.com/dashboard?id=autoRemove-Scheduled-jobs)
 
 ## Назначение
 
