@@ -5,9 +5,9 @@
 			<Metadata name="Catalog.Номенклатура.Attribute.Используется" id="bdd3a22c-5144-4b32-9d3c-aad48eb8c92e"/>
 		</Metadata>
 		<Metadata name="Catalog.Номенклатура.ObjectModule" id="ed47c9c0-d968-4578-8316-bb4243ac1ce5.0" configVersion="2633bcb980376442bd2b90b98db35c7400000000"/>
-		<Metadata name="CommonModule._Регламенты" id="a8f4796e-bc96-4b9e-bed9-7880704310b5" configVersion="3eb9306e5b797649af32b9dabb963fb300000000"/>
-		<Metadata name="CommonModule._Регламенты.Module" id="a8f4796e-bc96-4b9e-bed9-7880704310b5.0" configVersion="d2cf253baf4a324194835a76a485766500000000"/>
-		<Metadata name="Configuration.РегламентныеЗадания" id="b282e2f4-8ec3-41bf-8ec6-83f87a4487a2" configVersion="b8c546a56529624890e20b1dfdefcaa000000000"/>
+		<Metadata name="CommonModule._Регламенты" id="a8f4796e-bc96-4b9e-bed9-7880704310b5" configVersion="12d0e1e94adb834fa1b213d3ed7a24d100000000"/>
+		<Metadata name="CommonModule._Регламенты.Module" id="a8f4796e-bc96-4b9e-bed9-7880704310b5.0" configVersion="4dabdaac4209434b90d2fae93e8bfe1700000000"/>
+		<Metadata name="Configuration.РегламентныеЗадания" id="b282e2f4-8ec3-41bf-8ec6-83f87a4487a2" configVersion="91725c2f925d4f45b439635385aeb06100000000"/>
 		<Metadata name="Constant.ЗапрещатьПерезапись" id="4c8a9d2e-4b25-4f9c-b35e-0b5b539401f3" configVersion="393a6f0849659b4ab19dc1edc400498b00000000"/>
 		<Metadata name="DataProcessor.ГенерацияОтложенныхЗаданий" id="65fab57b-e38c-4fcc-b506-5fe846d9cdae" configVersion="d602868255971348b3f0e3e3185528c400000000"/>
 		<Metadata name="DataProcessor.ГенерацияОтложенныхЗаданий.Form.Форма" id="faa208c7-19e7-4cf3-92b7-0d9180761035" configVersion="e759d486df854c4eb60a7eec9d4277ee00000000"/>
