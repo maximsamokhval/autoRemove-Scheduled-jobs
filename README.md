@@ -5,6 +5,7 @@
 [![Технический долг](https://sonarqube.samokhval.com/api/project_badges/measure?project=autoRemove-Scheduled-jobs&metric=sqale_index)](https://sonarqube.samokhval.com/dashboard?id=autoRemove-Scheduled-jobs) [![Уязвимости](https://sonarqube.samokhval.com/api/project_badges/measure?project=autoRemove-Scheduled-jobs&metric=vulnerabilities)](https://sonarqube.samokhval.com/dashboard?id=autoRemove-Scheduled-jobs)
 ![downloads](https://img.shields.io/github/downloads/maximsamokhval/autoRemove-Scheduled-jobs/total?style=plastic)
 ![last commit](https://img.shields.io/github/last-commit/maximsamokhval/autoRemove-Scheduled-jobs?style=plastic)
+![build](https://img.shields.io/github/workflow/status/maximsamokhval/autoRemove-Scheduled-jobs/CI?style=plastic)
 ![forks](https://img.shields.io/github/forks/maximsamokhval/autoRemove-Scheduled-jobs?style=plastic)
 ![stars](https://img.shields.io/github/stars/maximsamokhval/autoRemove-Scheduled-jobs?style=plastic)
 [![telegram](https://img.shields.io/badge/telegram-channel-blue.svg)](https://t.me/automation_community)
