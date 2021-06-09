@@ -7,6 +7,7 @@
 ![last commit](https://img.shields.io/github/last-commit/maximsamokhval/autoRemove-Scheduled-jobs?style=plastic)
 ![forks](https://img.shields.io/github/forks/maximsamokhval/autoRemove-Scheduled-jobs?style=plastic)
 ![stars](https://img.shields.io/github/stars/maximsamokhval/autoRemove-Scheduled-jobs?style=plastic)
+[![telegram](https://img.shields.io/badge/telegram-channel-blue.svg)](https://t.me/automation_community)
 
 ## Назначение
 
