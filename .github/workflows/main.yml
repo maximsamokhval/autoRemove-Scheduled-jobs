@@ -1,0 +1,36 @@
+# MIT License
+# Copyright (C) 2020 Tymko Oleg <olegtymko@yandex.ru> and contributors
+# All rights reserved.
+
+name: Линия CI
+
+# Controls when the action will run. 
+on: [push]
+env:
+  BASE_PATH: ./autoRemove-Scheduled-jobs
+  
+jobs: 
+  sonar-analyze:
+    if: github.repository == 'maximsamokhval/autoRemove-Scheduled-jobs'
+    runs-on: ubuntu-latest
+    steps:
+    # Актуализация
+      - uses: actions/checkout@v2
+      # https://stackoverflow.com/questions/58033366/how-to-get-current-branch-within-github-actions
+      - name: Извлечение имени текущей ветки
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
+
+      - name: Установка Sonar-scanner
+        uses: warchant/setup-sonar-scanner@v1
+        env:
+          # отключение безопасности установки, от 2020-10-01
+          ACTIONS_ALLOW_UNSECURE_COMMANDS: true
+
+      - name: Анализ в SonarQube (branch)
+        if: github.event_name == 'push'
+        run: sonar-scanner
+            -Dsonar.login=${{ secrets.SONARQUBE_TOKEN }}
+            -Dsonar.host.url=${{ secrets.SONARQUBE_HOST }}
+            -Dsonar.branch.name=${{ steps.extract_branch.outputs.branch }}
