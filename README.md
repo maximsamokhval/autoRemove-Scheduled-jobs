@@ -8,6 +8,7 @@
 ![build](https://img.shields.io/github/workflow/status/maximsamokhval/autoRemove-Scheduled-jobs/CI?style=plastic)
 ![forks](https://img.shields.io/github/forks/maximsamokhval/autoRemove-Scheduled-jobs?style=plastic)
 ![stars](https://img.shields.io/github/stars/maximsamokhval/autoRemove-Scheduled-jobs?style=plastic)
+![license](https://img.shields.io/github/license/maximsamokhval/autoRemove-Scheduled-jobs?style=plastic)
 [![telegram](https://img.shields.io/badge/telegram-channel-blue.svg)](https://t.me/automation_community)
 
 ## Назначение
