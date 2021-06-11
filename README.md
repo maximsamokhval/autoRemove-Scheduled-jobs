@@ -9,7 +9,7 @@
 ![forks](https://img.shields.io/github/forks/maximsamokhval/autoRemove-Scheduled-jobs?style=plastic)
 ![stars](https://img.shields.io/github/stars/maximsamokhval/autoRemove-Scheduled-jobs?style=plastic)
 ![license](https://img.shields.io/github/license/maximsamokhval/autoRemove-Scheduled-jobs?style=plastic)
-[![telegram](https://img.shields.io/badge/telegram-channel-blue.svg)](https://t.me/joinchat/FUSfJawJFHE0OGY6)
+[![telegram](https://img.shields.io/badge/telegram-group-brightgreen?style=plastic&logo=telegram)](https://t.me/joinchat/FUSfJawJFHE0OGY6)
 
 ## Назначение
 
